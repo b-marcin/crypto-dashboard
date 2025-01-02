@@ -264,7 +264,7 @@ for sym in symbols:
     st.metric(label=f"{sym} Latest Bar Volume", value=f"{int(latest_volume):,}")
 
 # ------------------------------------------------------------------------------
-# 7. Footer
+# 7. Footer.
 # ------------------------------------------------------------------------------
 st.write("---")
 st.write("""
